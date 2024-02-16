@@ -1,5 +1,5 @@
 body{
-    background: #e6c84f;
+    background: #e6c84fde;
 }
 .container{
 display: flex;
@@ -257,7 +257,7 @@ button.invert {
   padding-left: 30px;
   color: black;
   font-size: 19px;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family: math;
   background-color: white;
   /* filter: blur(0px); */
 
